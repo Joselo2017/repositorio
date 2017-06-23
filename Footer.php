@@ -62,6 +62,7 @@
 			<section class="ls page_copyright table_section section_padding_25">
 				<div class="container">
 					<div class="row">
+					<h1>Esta es la modificacion</h1>
 						<div class="col-sm-12 text-center">
 							<p class="grey">&copy; Copyright <a href="http://www.serdan.com.co">Serdan 2017</a> Todos los derechos reservados. </p>
 						</div>
